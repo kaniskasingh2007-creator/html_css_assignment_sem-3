@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<style>
+.cards {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.card {
+  border: 1px solid black;
+  padding: 10px;
+}
+@media (min-width: 600px) {
+  .cards {
+    flex-direction: row;
+  }
+  .card {
+    flex: 1;
+  }
+}
+</style>
+</head>
+<body>
+<div class='cards'>
+<div class='card'><h2>Heading</h2><p>Content</p></div>
+<div class='card'><h2>Heading</h2><p>Content</p></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<div class='header'>Header</div>
+<div class='main'>Main Content</div>
+<div class='footer'>Footer</div>
+</body>
+</html>

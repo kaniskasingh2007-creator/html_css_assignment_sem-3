@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+<header>
+<h1>Kaniska</h1>
+<nav>
+<a href='#about'>About</a>
+<a href='#contact'>Contact</a>
+</nav>
+</header>
+<main>
+<section id='about'>
+<h2>About me</h2>
+<p>I am a B.Tech student.</p>
+</section>
+</main>
+<footer id='contact'>
+<p><a href='mailto:your.email@example.com'>Email Me</a></p>
+</footer>
+</body>
+</html>

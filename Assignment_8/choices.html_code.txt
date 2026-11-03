@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+<form>
+<label><input type='radio' name='gender' value='Female'> Female</label>
+<label><input type='radio' name='gender' value='Male'> Male</label>
+<br>
+<select name='course'>
+<option value='BCA'>BCA</option>
+<option value='B.Tech'>B.Tech</option>
+</select>
+</form>
+</body>
+</html>

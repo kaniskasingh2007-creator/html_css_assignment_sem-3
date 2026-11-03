@@ -1,0 +1,11 @@
+cd ..
+git init --bare html-remote
+cd html-lab
+git remote add origin ../html-remote
+git remote -v
+git branch -M main
+git push -u origin main
+cd ..
+git clone html-remote html-copy
+cd html-copy
+git log --oneline

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  font-size: 1rem;
+}
+h1 {
+  font-size: 1.5rem;
+}
+@media (min-width: 600px) {
+  h1 {
+    font-size: 2.5rem;
+  }
+}
+</style>
+</head>
+<body>
+<h1>Responsive Heading</h1>
+<p>Responsive text paragraph.</p>
+</body>
+</html>

@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>This is <strong>strong</strong> text.</p>
+<p>This is <em>em</em> text with a<br>line break.</p>
+</body>
+</html>
